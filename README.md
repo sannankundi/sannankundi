@@ -76,7 +76,7 @@ When I’m not studying Biology or prepping for the MDCAT, I’m building real-w
 - 📌 [LinkedIn](https://www.linkedin.com/in/asannaankhan/)
 - 🧠 [YouTube](https://youtube.com/@asannaank)
 - 🌐 [My GitHub Portfolio](https://github.com/sannaankundi)
-- 🐦 [X (formerly Twitter)](https://x.com/asannaankhan)
+- 🐦 [Bluesky](https://bsky.app/profile/asannaankhan.bsky.social)
 
 ---
 
