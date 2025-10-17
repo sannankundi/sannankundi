@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ahmad Sannaan Khan Kundi 👋</h1>
+<h1 align="center">Hey, I'm Sannan👋</h1>
 <p align="center">Former Programmer · Now Cybersecurity Learner</p>
 
 ---
