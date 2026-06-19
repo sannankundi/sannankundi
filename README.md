@@ -17,6 +17,7 @@ I am also a video editor.
 ### 📚 Current Focus  
 
 - SOC Analyst Skills
+- Python Development
 - Video Editing
 
 ---
