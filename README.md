@@ -18,7 +18,6 @@ I am also a video editor.
 
 - SOC Analyst Skills
 - Python Development
-- Video Editing
 
 ---
 
